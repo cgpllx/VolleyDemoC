@@ -1,4 +1,4 @@
-package com.example.volleydemoc.cache;
+package com.example.volleydemoc.cache.memory;
 
 import java.util.Collection;
 

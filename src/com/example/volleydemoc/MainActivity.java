@@ -19,7 +19,7 @@ import com.android.volley.toolbox.JsonArrayRequest;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.android.volley.toolbox.NetworkImageView;
 import com.android.volley.toolbox.Volley;
-import com.example.volleydemoc.cache.BitmapCache;
+import com.example.volleydemoc.cache.memory.BitmapCache;
 
 public class MainActivity extends Activity {
 	public static String TAG = "MainActivity";

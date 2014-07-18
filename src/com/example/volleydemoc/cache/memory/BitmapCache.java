@@ -1,4 +1,4 @@
-package com.example.volleydemoc.cache;
+package com.example.volleydemoc.cache.memory;
 
 import android.graphics.Bitmap;
 import android.support.v4.util.LruCache;
